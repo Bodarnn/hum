@@ -1,5 +1,5 @@
 field,display_name,btn,hidden,sort_name
-title,,true,,Title
+title,,,,Title
 noise,,true,,Noise
 traffic,,true,,Traffic
 xdoor,,true,,Xdoor
