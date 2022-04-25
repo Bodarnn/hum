@@ -38,8 +38,8 @@ locations-stopwords: # set of subjects separated by ; that will be removed from 
 # MAP PAGE
 #
 # see _data/map-config.csv for field display options
-latitude: 38.98432 #to determine center of map
-longitude: -76.94543 #to determine center of map
+latitude: 38.98346 #to determine center of map
+longitude: -76.94513 #to determine center of map
 zoom-level: 16 # zoom level for map 
 map-base: Esri_WorldStreetMap # set default base map, choose from: Esri_WorldStreetMap, Esri_NatGeoWorldMap, Esri_WorldImagery
 map-search: true # true/false, not suggested with large collections
