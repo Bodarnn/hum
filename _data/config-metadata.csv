@@ -1,7 +1,7 @@
 field,display_name,browse_link,external_link
 title,Title,,
-noise,Noise,true,
-traffic,Traffic,true,
-xdoor,Xdoor,true,
-seats,Seats,true,
-tables,Tables,true,
+noise,Noise,,
+traffic,Traffic,,
+xdoor,Xdoor,,
+seats,Seats,,
+tables,Tables,,
