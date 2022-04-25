@@ -1,5 +1,7 @@
 field,display_name,search
-date,Date,true
-creator,Creator,true
-subject,Subjects,true
-location,Location,true
+title,Title,true
+noise,,true
+traffic,,true
+xdoor,,true
+seats,,true
+tables,,true
