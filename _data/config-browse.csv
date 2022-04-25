@@ -1,6 +1,6 @@
 field,display_name,btn,hidden,sort_name
-noise,,true,,true
-traffic,,true,,true
-xdoor,,true,,true
-seats,,true,,true
-tables,,true,,true
+noise,,true,,Noise
+traffic,,true,,Traffic
+xdoor,,true,,Xdoor
+seats,,true,,Seats
+tables,,true,,Tables
