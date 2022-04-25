@@ -1,6 +1,7 @@
 field,display_name,browse_link,external_link
 title,Title,,
 description,Description,,
+umdmap,UMD Web Map,,
 format,Format,,
 type,Type,,
 rights,Rights,,
