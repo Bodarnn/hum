@@ -1,6 +1,7 @@
 field,display_name,btn,hidden,sort_name
+title,,true,,Title
 noise,,true,,Noise
 traffic,,true,,Traffic
-xdoor,,true,,Xdoor
+xdoor,,true,,Indoor/Outdoor
 seats,,true,,Seats
 tables,,true,,Tables
