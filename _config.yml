@@ -22,10 +22,10 @@ source-code: https://bodarnn.github.io/hangouts-at-umd
 # title of site appears in banner
 title: Hangouts at UMD
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: A short catalog of hangouts and study spaces at UMD
+tagline: Find the best place for you
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "A collection of images and information about spaces at UMD. The informstion includes hours, traffic, and noise."
+description: "Hangouts at UMD is a catalog of places to hang out at UMD. Each entry includes information about location, noise, traffic, seating, and more."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Bodarnn
 
@@ -34,7 +34,7 @@ author: Bodarnn
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: psychiana
+metadata: umdplaces
 
 ##########
 # Site/Organization Branding 
