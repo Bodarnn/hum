@@ -1,5 +1,7 @@
 field,display_name
 title,Title
-date,Date
-description,Description
-subject,Subjects
+noise,Noise
+traffic,Traffic
+xdoor,Xdoor
+seats,Seats
+tables,Tables
