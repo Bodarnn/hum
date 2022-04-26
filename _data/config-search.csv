@@ -1,7 +1,7 @@
 field,index,display
-title,true,true
-xdoor,true,true
-noise,true,true
-traffic,true,true
-seats,true,true
-tables,true,true
+title,true,
+xdoor,true,
+noise,true,
+traffic,true,
+seats,true,
+tables,true,
