@@ -1,7 +1,8 @@
 field,display_name
 title,Title
+hours,Hours
+xdoor,Indoor/Outdoor
 noise,Noise
 traffic,Traffic
-xdoor,Indoor/Outdoor
 seats,Seats
 tables,Tables
