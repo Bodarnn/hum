@@ -26,7 +26,9 @@ tagline: Find the best place for you
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "Hangouts at UMD is a catalog of places to hang out at UMD. Each entry includes information about location, noise, traffic, and more. 
+
 Help us refine out metadata by filling out this form https://forms.gle/D1J3SVWPowvrG52Q9. 
+
 To propose new hangouts, use this form https://forms.gle/G8qFG2WCVu9pM5sM9"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Bodarnn
