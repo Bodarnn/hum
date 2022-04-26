@@ -1,7 +1,10 @@
 <div class="card mb-3">
   <div class="card-body">
     <h5 class="card-title">Description</h5>
-    <p class="card-text">Hi, my name is Brandon.<br>Here's a new line.<br>And another one.</p>
+    
+    Hangouts at UMD is a catalog of places to hang out at UMD. Each entry includes information about location, noise, traffic, and more. Help us refine out metadata by filling out this form https://forms.gle/D1J3SVWPowvrG52Q9. To propose new hangouts, use this form https://forms.gle/G8qFG2WCVu9pM5sM9
+    
+    <p class="card-text">Hangouts at UMD is a catalog of places to hang out at UMD. Each entry includes information about location, noise, traffic, and more. To help up refine our metadata, use the links below.<br><br><a href="url">Review old hangouts.</a><br><br><a href="url">Propose new hangouts</a></p>
     {%- assign about = site.data.config-nav | where: "stub","/about.html" | size -%}
     {% if about > 0 %}<a class="btn btn-outline-primary" href="{{ '/about.html' | relative_url }}" >Learn More &raquo;</a>{% endif %}
   </div>
